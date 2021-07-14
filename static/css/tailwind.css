@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: Segoe UI;
+}
+
+body {
+	@apply bg-gray-700;
+}
