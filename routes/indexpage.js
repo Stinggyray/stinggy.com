@@ -8,7 +8,7 @@ module.exports.set = function (app) {
 				og_title: "Sting's Website",
 				og_description: "Sting's personal website. Why are you reading this?",
 				og_url: "https://stinggy.com",
-				og_image: "https://cdn.discordapp.com/attachments/608138102514647091/704105244581167294/6cropped.jpg"
+				og_image: "https://stinggy.com/android-chrome-512x512.png"
 			}
 		});
 	});
